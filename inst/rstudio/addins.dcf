@@ -1,0 +1,4 @@
+Name: Insert emo::ji code snippet
+Description: Inserts `r emo::ji("smile")` at the cursor position.
+Binding: insert_rmd_emoji_addin
+Interactive: false

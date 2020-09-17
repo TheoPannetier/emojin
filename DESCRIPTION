@@ -1,0 +1,12 @@
+Package: emojin
+Type: Package
+Title: emo::ji add-in for rmarkdown
+Version: 1.0.0
+Author: Theo Pannetier
+Maintainer: Theo Pannetier <t.s.c.pannetier@rug.nl>
+Description: Rstudio add-in to insert an emo::ji code snippet in a document.
+License:  GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: rstudioapi
+RoxygenNote: 7.1.0
